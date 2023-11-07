@@ -12,8 +12,8 @@ const Home = ({ data }) => {
   if (!page) {
     return (
       <Error
-        title={`"Home Page" is not set in Sanity, or the page data is missing`}
-        statusCode="Data Error"
+        title={`Kaam kr le bhai Instagram se ghr nahi chlta h `}
+        statusCode="Hello Hi"
       />
     )
   }
